@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 안녕하세요, 삼팔공입니다!
 
-<!--
-**sampalgong/sampalgong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+저는 **초보 개발자**로, 새로운 기술을 배우고 성장하는 것을 즐깁니다.\
+GitHub를 통해 프로젝트를 공유하고 협업하는 것을 목표로 하고 있습니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 기술 스택
+
+- **언어**: Python
+- **도구**: VS Code, Git
+
+---
+
+### 🌱 현재 배우고 있는 것
+
+- [ ] Git과 GitHub 활용법  
+- [ ] 프론트엔드/백엔드 기초
+- [ ] 개인 프로젝트 진행  
+
+---
+
+### 📫 연락하기
+
+- GitHub: [https://github.com/sampalgong](#)
